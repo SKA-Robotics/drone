@@ -1,2 +1,0 @@
-Number of Contacts: 56
-Number of contact data: 20867
