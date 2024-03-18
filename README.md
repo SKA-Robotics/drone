@@ -11,11 +11,4 @@ Clone the repository onto your local machine (using https is easier, but you can
 ```bash
 $ git clone https://github.com/SKA-Robotics/drone.git
 ```
-<<<<<<< HEAD
-All drone parts are grouped into categories depending of manufacturing proces or need of purchase.
-#
-Copyright &copy; 2023, SKA Robotics Warsaw University of Technology
-=======
-#
 Copyright &copy; 2024, SKA Robotics Warsaw University of Technology
->>>>>>> main
