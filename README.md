@@ -11,5 +11,4 @@ Clone the repository onto your local machine (using https is easier, but you can
 ```bash
 $ git clone https://github.com/SKA-Robotics/drone.git
 ```
-#
 Copyright &copy; 2024, SKA Robotics Warsaw University of Technology
